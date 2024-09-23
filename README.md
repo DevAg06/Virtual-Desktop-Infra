@@ -23,7 +23,7 @@ Linux (Ubuntu, CentOS, etc.) Nginx (for reverse proxy configuration) SSL/TLS for
 3. Choose key pair, either you can use old one or create a new.
 4. Choose security group where you should allow ports like . (80,443,22).
 5. After creating instance do ssh in the instance.
-!(https://github.com/DevAg06/Virtual-Desktop-Infra/blob/main/Screenshot%20(367).png)
+![AWS Instance](https://github.com/DevAg06/Virtual-Desktop-Infra/blob/main/Screenshot%20(367).png)
 
 6. Then run following commands:
     - sudo apt update
